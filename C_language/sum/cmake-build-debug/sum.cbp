@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sum"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sum">
+				<Option output="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 sum"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sum/fast">
+				<Option output="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 sum/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macyr/Desktop/data_structure_C_language/C_language/sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/main.c">
+			<Option target="sum"/>
+		</Unit>
+		<Unit filename="/Users/macyr/Desktop/data_structure_C_language/C_language/sum/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
